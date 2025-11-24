@@ -119,3 +119,5 @@ platforms:
     name: "知乎"
   - id: "coolapk"
     name: "酷安"
+  - id: "ithome"
+    name: "IT之家"
